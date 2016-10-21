@@ -1,0 +1,11 @@
+body 
+{
+     margin: 0;
+     background: url('../img/samosa.jpg');
+}
+
+.jumbotron
+{
+    color:#000000;
+    background-color: #FFFFFF;
+}
